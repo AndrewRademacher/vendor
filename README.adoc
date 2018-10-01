@@ -1,0 +1,4 @@
+Vendor Files
+============
+
+Use git submodules or subtree to include in your CMake project.
